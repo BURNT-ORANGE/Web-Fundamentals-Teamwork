@@ -328,7 +328,7 @@ audio {
 footer {
     margin: 20px 0 0 0;
     padding: 0;
-    height: 250px;
+    height: 200px;
     width: 100%;
 }
 
@@ -345,9 +345,5 @@ a:hover {
     text-decoration: none;
 }
 
-#myImage {
-    display: none;
-}
 
-@media scrren and (max-width: 600px) {
-}
+
