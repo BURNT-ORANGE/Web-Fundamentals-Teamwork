@@ -1,0 +1,227 @@
+div.row > ul.colors {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+div.row > ul.colors > li > div {
+    float: left;
+    display: inline-block;
+    width: 17.20%;
+    height: 40px;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+div.row > ul.colors > li:first-of-type > div {
+    background-color: #5abcde;
+}
+
+div.row > ul.colors > li:nth-of-type(2) > div {
+    background-color: #2bcaad;
+}
+
+div.row > ul.colors > li:nth-of-type(3) > div {
+    background-color: #fa1acb;
+}
+
+div.row > ul.colors > li:nth-of-type(4) > div {
+    background-color: #bfa2aa;
+}
+
+div.row > ul.colors > li:nth-of-type(5) > div {
+    background-color: #acaca2;
+}
+
+div.row > ul.colors > li:nth-of-type(6) > div {
+    background-color: #abf3bc;
+}
+
+div.row > ul.colors > li:nth-of-type(7) > div {
+    background-color: #fc3abc;
+}
+
+div.row > ul.colors > li:nth-of-type(8) > div {
+    background-color: #1fcbad;
+}
+
+div.row > ul.colors > li:nth-of-type(9) > div {
+    background-color: #ad9dff;
+}
+
+div.row > ul.colors > li:nth-of-type(10) > div {
+    background-color: #3fdcaa;
+}
+
+div.row > ul.colors > li:nth-of-type(11) > div {
+    background-color: #ab9cde;
+}
+
+div.row > ul.colors > li:nth-of-type(12) > div {
+    background-color: #adad4d;
+}
+
+div.row > ul.colors > li:nth-of-type(13) > div {
+    background-color: #fafac1;
+}
+
+div.row > ul.colors > li:nth-of-type(14) > div {
+    background-color: #bf11aa;
+}
+
+div.row > ul.colors > li:nth-of-type(15) > div {
+    background-color: #4cacac;
+}
+
+div.row > ul.colors > li:nth-of-type(16) > div {
+    background-color: #5fffff;
+}
+
+div.row > ul.colors > li:nth-of-type(17) > div {
+    background-color: #fbfa5f;
+}
+
+div.row > ul.colors > li:nth-of-type(18) > div {
+    background-color: #f6faff;
+}
+
+div.row > ul.colors > li:nth-of-type(19) > div {
+    background-color: #fc4aaf;
+}
+
+div.row > ul.colors > li:nth-of-type(20) > div {
+    background-color: #fcdaa7;
+}
+
+div.row > ul.colors > li:nth-of-type(21) > div {
+    background-color: #9aaaaa;
+}
+
+div.row > ul.colors > li:nth-of-type(22) > div {
+    background-color: #abf7ba;
+}
+
+div.row > ul.colors > li:nth-of-type(23) > div {
+    background-color: #abcde1;
+}
+
+div.row > ul.colors > li:nth-of-type(24) > div {
+    background-color: #fa1cba;
+}
+
+div.row > ul.colors > li:nth-of-type(25) > div {
+    background-color: #bfacd2;
+}
+
+div.row > ul.colors > li:nth-of-type(26) > div {
+    background-color: #faaf4a;
+}
+
+div.row > ul.colors > li:nth-of-type(27) > div {
+    background-color: #2aafca;
+}
+
+div.row > ul.colors > li:nth-of-type(28) > div {
+    background-color: #daa1ca;
+}
+
+div.row > ul.colors > li:nth-of-type(29) > div {
+    background-color: #d9afbd;
+}
+
+div.row > ul.colors > li:nth-of-type(30) > div {
+    background-color: #2cafad;
+}
+
+div.row > ul.colors > li:nth-of-type(31) > div {
+    background-color: #bc4fad;
+}
+
+div.row > ul.colors > li:nth-of-type(32) > div {
+    background-color: #3cffad;
+}
+
+div.row > ul.colors > li:nth-of-type(33) > div {
+    background-color: #acf2ad;
+}
+
+div.row > ul.colors > li:nth-of-type(34) > div {
+    background-color: #f3faa6;
+}
+
+div.row > ul.colors > li:nth-of-type(35) > div {
+    background-color: #fafaa1;
+}
+
+div.row > ul.colors > li:nth-of-type(36) > div {
+    background-color: #a7ffac;
+}
+
+div.row > ul.colors > li:nth-of-type(37) > div {
+    background-color: #ffffa7;
+}
+
+div.row > ul.colors > li:nth-of-type(38) > div {
+    background-color: #c2abcd;
+}
+
+div.row > ul.colors > li:nth-of-type(39) > div {
+    background-color: #5fabda;
+}
+
+div.row > ul.colors > li:nth-of-type(40) > div {
+    background-color: #af1bda;
+}
+
+div.row > ul.colors > li:nth-of-type(41) > div {
+    background-color: #1faaab;
+}
+
+div.row > ul.colors > li:nth-of-type(42) > div {
+    background-color: #acfa4b;
+}
+
+div.row > ul.colors > li:nth-of-type(43) > div {
+    background-color: #fb2caf;
+}
+
+div.row > ul.colors > li:nth-of-type(44) > div {
+    background-color: #9affac;
+}
+
+div.row > ul.colors > li:nth-of-type(45) > div {
+    background-color: #aaf3ac;
+}
+
+div.row > ul.colors > li:nth-of-type(46) > div {
+    background-color: #5abdac;
+}
+
+div.row > ul.colors > li:nth-of-type(47) > div {
+    background-color: #af7abc;
+}
+
+div.row > ul.colors > li:nth-of-type(48) > div {
+    background-color: #fbfb2c;
+}
+
+div.row > ul.colors > li:nth-of-type(49) > div {
+    background-color: #a1ca7f;
+}
+
+div.row > ul.colors > li:nth-of-type(50) > div {
+    background-color: #2ddadc;
+}
+
+div.row > ul.colors > li > p {
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    line-height: 40px;
+    float: left;
+    width: 3%;
+    height: 40px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

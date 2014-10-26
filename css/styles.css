@@ -1,33 +1,6 @@
-body, div {
+body, html, div {
     margin: 0;
     padding: 0;
-}
-
-#white{
-    display: inline-block;
-    height: 1000px;
-    width: 2%;
-    float: left;
-
-}
-#red {
-    float: left;
-    display: inline-block;
-    height:1000px;
-    width: 49%;
-    background-color: red;
-}
-#blue {
-    float: left;
-    display: inline-block;
-    height:1000px;
-    width: 49%;
-    background: blue;
-}
-a {
-    width: 100%;
-    height: 100%;
-    display: block;
 }
 
 .jumbotron {
@@ -36,7 +9,6 @@ a {
 
 area {
     display: block;
-    cursor: default;
     border: none;
     outline: none;
 }
@@ -45,296 +17,20 @@ div.jumbotron > p > span {
     color: #00001F;
 }
 
-div.block1, div.block2, div.block3, div.block4, div.block5, div.block6, div.block7, div.block8, div.block9, div.block10,
-div.block11, div.block12, div.block13, div.block14, div.block15, div.block16, div.block17, div.block18, div.block19, div.block20,
-div.block21, div.block22, div.block23, div.block24, div.block25, div.block26, div.block27, div.block28, div.block29, div.block30,
-div.block31, div.block32, div.block33, div.block34, div.block35, div.block36, div.block37, div.block38, div.block39, div.block40,
-div.block41, div.block42, div.block43, div.block44, div.block45, div.block46, div.block47, div.block48, div.block49, div.block50{
-    float: left;
-    display: inline-block;
-    width: 17.20%;
-    height: 40px;
-    margin: 0;
-    padding: 0;
-}
-
-div+p {
-    display: inline-block;
-    font-size: 30px;
-    text-align: center;
-    line-height: 40px;
-    float: left;
-    width: 3%;
-    height: 40px;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-div.block1 {
-    background-color: #5abcde;
-    margin-bottom: 10px;
-}
-
-div.block2 {
-    background-color: #2bcaad;
-    margin-bottom: 10px;
-}
-
-div.block3 {
-    background-color: #fa1acb;
-    margin-bottom: 10px;
-}
-
-div.block4 {
-    background-color: #bfa2aa;
-    margin-bottom: 10px;
-}
-
-div.block5 {
-    background-color: #acaca2;
-    margin-bottom: 10px;
-}
-
-div.block6 {
-    background-color: #abf3bc;
-    margin-bottom: 10px;
-}
-
-div.block7 {
-    background-color: #fc3abc;
-    margin-bottom: 10px;
-}
-
-div.block8 {
-    background-color: #1fcbad;
-    margin-bottom: 10px;
-}
-
-div.block9 {
-    background-color: #ad9dff;
-    margin-bottom: 10px;
-}
-
-div.block10 {
-    background-color: #3fdcaa;
-    margin-bottom: 10px;
-}
-
-div.block11 {
-    background-color: #ab9cde;
-    margin-bottom: 10px;
-}
-
-div.block12 {
-    background-color: #adad4d;
-    margin-bottom: 10px;
-}
-
-div.block13 {
-    background-color: #fafac1;
-    margin-bottom: 10px;
-}
-
-div.block14 {
-    background-color: #bf11aa;
-    margin-bottom: 10px;
-}
-
-div.block15 {
-    background-color: #4cacac;
-    margin-bottom: 10px;
-}
-
-div.block16 {
-    background-color: #5fffff;
-    margin-bottom: 10px;
-}
-
-div.block17 {
-    background-color: #fbfa5f;
-    margin-bottom: 10px;
-}
-
-div.block18 {
-    background-color: #f6faff;
-    margin-bottom: 10px;
-}
-
-div.block19 {
-    background-color: #fc4aaf;
-    margin-bottom: 10px;
-}
-
-div.block20 {
-    background-color: #fcdaa7;
-    margin-bottom: 10px;
-}
-
-div.block21 {
-    background-color: #9aaaaa;
-    margin-bottom: 10px;
-}
-
-div.block22 {
-    background-color: #abf7ba;
-    margin-bottom: 10px;
-}
-
-div.block23 {
-    background-color: #abcde1;
-    margin-bottom: 10px;
-}
-
-div.block24 {
-    background-color: #fa1cba;
-    margin-bottom: 10px;
-}
-
-div.block25 {
-    background-color: #bfacd2;
-    margin-bottom: 10px;
-}
-
-div.block26 {
-    background-color: #faaf4a;
-    margin-bottom: 10px;
-}
-
-div.block27 {
-    background-color: #2aafca;
-    margin-bottom: 10px;
-}
-
-div.block28 {
-    background-color: #daa1ca;
-    margin-bottom: 10px;
-}
-
-div.block29 {
-    background-color: #d9afbd;
-    margin-bottom: 10px;
-}
-
-div.block30 {
-    background-color: #2cafad;
-    margin-bottom: 10px;
-}
-
-div.block31 {
-    background-color: #bc4fad;
-    margin-bottom: 10px;
-}
-
-div.block32 {
-    background-color: #3cffad;
-    margin-bottom: 10px;
-}
-
-div.block33 {
-    background-color: #acf2ad;
-    margin-bottom: 10px;
-}
-
-div.block34 {
-    background-color: #f3faa6;
-    margin-bottom: 10px;
-}
-
-div.block35 {
-    background-color: #fafaa1;
-    margin-bottom: 10px;
-}
-
-div.block36 {
-    background-color: #a7ffac;
-    margin-bottom: 10px;
-}
-
-div.block37 {
-    background-color: #ffffa7;
-    margin-bottom: 10px;
-}
-
-div.block38 {
-    background-color: #c2abcd;
-    margin-bottom: 10px;
-}
-
-div.block39 {
-    background-color: #5fabda;
-    margin-bottom: 10px;
-}
-
-div.block40 {
-    background-color: #af1bda;
-    margin-bottom: 10px;
-}
-
-div.block41 {
-    background-color: #1faaab;
-    margin-bottom: 10px;
-}
-
-div.block42 {
-    background-color: #acfa4b;
-    margin-bottom: 10px;
-}
-
-div.block43 {
-    background-color: #fb2caf;
-    margin-bottom: 10px;
-}
-
-div.block44 {
-    background-color: #9affac;
-    margin-bottom: 10px;
-}
-
-div.block45 {
-    background-color: #aaf3ac;
-    margin-bottom: 10px;
-}
-
-div.block46 {
-    background-color: #5abdac;
-    margin-bottom: 10px;
-}
-
-div.block47 {
-    background-color: #af7abc;
-    margin-bottom: 10px;
-}
-
-div.block48 {
-    background-color: #fbfb3c;
-    margin-bottom: 10px;
-}
-
-div.block49 {
-    background-color: #abca3f;
-    margin-bottom: 10px;
-}
-
-div.block50 {
-    background-color: #2ddadc;
-    margin-bottom: 10px;
-}
-
 audio {
     margin-top: 30px;
 }
 
 footer {
-    margin: 20px 0 0 0;
+    margin: 10px 0 0 0;
     padding: 0;
     height: 200px;
     width: 100%;
 }
 
-footer>iframe {
+footer > iframe {
     border: none;
-    margin: 20px 0 0 0;
+    margin: 0;
     padding: 0;
     width: 100%;
     height: 200px;
@@ -344,6 +40,14 @@ a:hover {
     color: #ffffff;
     text-decoration: none;
 }
+
+.left-side, .right-side {
+    display: inline-block;
+    width: 50%;
+    float: left;
+}
+
+
 
 
 
