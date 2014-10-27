@@ -1,6 +1,6 @@
 <?php
 $title='Footer';
-$css='<link href="css/bootstrap.min.css" rel="stylesheet">, <link rel="stylesheet" href="css/styles.css"/>, <link rel="stylesheet" href="css/footer-styles.css"/>';
+$footer='<link rel="stylesheet" href="css/footer-styles.css"/>';
 include 'header.php';
 ?>
 <footer>
