@@ -1,3 +1,6 @@
+@import "about-styles.css";
+@import "colors-syles.css";
+
 body, html, div {
     margin: 0;
     padding: 0;
@@ -7,14 +10,19 @@ body, html, div {
     padding: 30px 24px;
 }
 
+div.jumbotron > img {
+    margin: 0 auto;
+}
+
+div.jumbotron > h1 {
+    text-align: center;
+}
+
 area {
     display: block;
     border: none;
+    cursor: default;
     outline: none;
-}
-
-div.jumbotron > p > span {
-    color: #00001F;
 }
 
 audio {
@@ -45,6 +53,27 @@ a:hover {
     display: inline-block;
     width: 50%;
     float: left;
+}
+
+body>main>div.container>div.row>img.img-responsive {
+    margin: 0 auto;
+}
+
+pre.centered {
+    text-align: center;
+}
+
+pre {
+    background-color: #EEEEEE;
+    border: none;
+    font-size: 1.3rem;
+}
+
+@media screen and (max-width: 400px) {
+    pre.centered {
+        text-align: left;
+        font-size: 1rem;
+    }
 }
 
 
