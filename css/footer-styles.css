@@ -3,9 +3,14 @@ body, div, footer {
     padding: 0;
 }
 
+@font-face {
+    font-family: cool;
+    src: url(../fonts/TrajanPro-Regular.ttf);
+}
+
 footer {
     font-size: 25px;
-    font-family: Verdana, sans-serif;
+    font-family:cool, Verdana, sans-serif;
     color: #FFA;
     background: linear-gradient(to top right, #1a82f1, #274a74);
     text-align: center;

@@ -1,6 +1,11 @@
 @import "about-styles.css";
 @import "colors-syles.css";
 
+@font-face {
+    font-family: cool;
+    src: url(../fonts/TrajanPro-Regular.ttf);
+}
+
 body, html, div {
     margin: 0;
     padding: 0;
@@ -55,14 +60,6 @@ a:hover {
     float: left;
 }
 
-body>main>div.container>div.row>img.img-responsive {
-    margin: 0 auto;
-}
-
-pre.centered {
-    text-align: center;
-}
-
 pre {
     background-color: #EEEEEE;
     border: none;
@@ -75,6 +72,7 @@ pre {
         font-size: 1rem;
     }
 }
+
 
 
 
