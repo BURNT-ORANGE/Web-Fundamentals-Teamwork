@@ -48,9 +48,9 @@ a {
     text-decoration: none;
 }
 
-@media screen and (min-width: 491px) and (max-width: 580px) {
+@media screen and (min-width: 481px) and (max-width: 630px) {
     a {
-        font-size: 25px;
+        font-size: 22px;
     }
 }
 

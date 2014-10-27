@@ -13,21 +13,7 @@ body, html, div {
 
 .jumbotron {
     padding: 30px 24px;
-}
-
-div.jumbotron > img {
-    margin: 0 auto;
-}
-
-div.jumbotron > h1 {
-    text-align: center;
-}
-
-area {
-    display: block;
-    border: none;
-    cursor: default;
-    outline: none;
+    background-color: #ffffff;
 }
 
 audio {
@@ -58,23 +44,18 @@ a:hover {
     display: inline-block;
     width: 50%;
     float: left;
+    margin-bottom: 10px;
 }
 
 pre {
-    background-color: #EEEEEE;
+    background-color: #ffffff;
     border: none;
     font-size: 1.3rem;
+    padding-left: 120px;
 }
 
-@media screen and (max-width: 400px) {
-    pre.centered {
-        text-align: left;
-        font-size: 1rem;
+@media screen and (max-width: 1090px) {
+    pre {
+        padding-left: 0;
     }
 }
-
-
-
-
-
-
