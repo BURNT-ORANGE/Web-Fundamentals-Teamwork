@@ -7,7 +7,7 @@ include 'header.php';
         </a>
     </div>
     <div class="right-side">
-        <a href="right/first.php">
+        <a href="right/beginning.php">
             <img class="img-responsive" src="img/background-right.png" alt=""/>
         </a>
     </div>

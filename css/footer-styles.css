@@ -13,6 +13,7 @@ footer {
     font-family:cool, Verdana, sans-serif;
     color: #FFA;
     background: linear-gradient(to top right, #1a82f1, #274a74);
+    background: -webkit-linear-gradient(45deg, rgba(26,130,241,1) 0%, rgba(39,74,116,1) 100%);
     text-align: center;
 }
 

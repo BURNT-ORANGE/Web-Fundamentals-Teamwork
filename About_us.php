@@ -70,9 +70,7 @@ include 'header.php';
                                 <h4 class="subheading">The PHP evangelist</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                    voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit
-                                    vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                <p class="text-muted">My name is Hristo Hristov, I was born in Haskovo on 10.07.1991. Currently I’m living in Sofia, I'm supporter of Linux,open source, PHP and MySQL and informal education</p>
                             </div>
                         </div>
                     </li>
