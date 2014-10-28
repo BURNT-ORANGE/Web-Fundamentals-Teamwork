@@ -1,4 +1,5 @@
 <?php
+$title='Your prize';
 include '../header.php';
 ?>
 <main>
