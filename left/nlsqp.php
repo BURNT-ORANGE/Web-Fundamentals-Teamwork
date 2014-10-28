@@ -1,5 +1,4 @@
 <?php
-$title='Brain Battle';
 include '../header.php';
 ?>
 <div class="container">

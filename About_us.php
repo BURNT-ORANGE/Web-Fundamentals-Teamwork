@@ -1,5 +1,5 @@
 <?php
-$title='Brain Battle';
+$title='About Us';
 include 'header.php';
 ?>
 <section id="about">
