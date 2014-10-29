@@ -21,10 +21,8 @@ include 'header.php';
                                 <h4>Velizar Bishurov</h4>
                                 <h4 class="subheading">The Code Guru</h4>
                             </div>
-                            <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                    voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit
-                                    vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                            <div class="timeline-body"> 
+                                <p class="text-muted">My name is Velizar, I'm 20 years old. I like programming on various languages. I also like making layout of web pages using HTML5 and CSS3</p>
                             </div>
                         </div>
                     </li>
@@ -38,9 +36,7 @@ include 'header.php';
                                 <h4 class="subheading">The Concept man</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                    voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit
-                                    vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                <p class="text-muted">My name is Boyan, I'm 23 years old. I like games of logic and using the gray stuff in my head whenever the opportunity 									presents itself</p>
                             </div>
                         </div>
                     </li>
