@@ -50,9 +50,7 @@ include 'header.php';
                                 <h4 class="subheading">The Photoshop masta</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                    voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit
-                                    vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                <p class="text-muted">Hi, my name is Angel, and I just made some pictures here :)</p>
                             </div>
                         </div>
                     </li>
